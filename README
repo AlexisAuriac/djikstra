@@ -1,0 +1,13 @@
+djikstra: djikstra
+
+INTERACTIONS:
+        mouse left click    place color
+        mouse right click   clear case
+        space               clear the map
+        a                   find path
+        w                   change color to white
+        b                   change color to blue
+        g                   change color to green
+        escape              quit
+        c                   reload map
+        s                   save map
